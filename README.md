@@ -38,7 +38,7 @@
   <p><strong>AutoAI generates multiple pipelines with optimized algorithms and enhancements.</strong></p>
 
   <h4>📷 AutoAI Relationship & Pipeline View</h4>
-  <img src="./1.png" alt="AutoAI Relationship Map" width="700"/>
+  <img src="[./1.png](https://github.com/jayakumartkofficial/Machine_Fault_Prediction_Using_ML/blob/main/Screenshot/1.png)" alt="AutoAI Relationship Map" width="700"/>
 
   <h4>📷 AutoAI Progress Workflow</h4>
   <img src="./2.png" alt="AutoAI Progress Map" width="700"/>
