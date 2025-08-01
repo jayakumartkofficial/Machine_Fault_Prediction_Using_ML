@@ -41,7 +41,7 @@
   <img src="https://github.com/jayakumartkofficial/Machine_Fault_Prediction_Using_ML/blob/main/Screenshot/1.png" alt="AutoAI Relationship Map" width="700"/>
 
   <h4>📷 AutoAI Progress Workflow</h4>
-  <img src="./2.png" alt="AutoAI Progress Map" width="700"/>
+  <img src="https://github.com/jayakumartkofficial/Machine_Fault_Prediction_Using_ML/blob/main/Screenshot/2.png" alt="AutoAI Progress Map" width="700"/>
 
   <h3>4️⃣ Select & Save the Best Model</h3>
   <ul>
@@ -64,7 +64,7 @@
   </ul>
 
   <h4>📷 Model Test Interface</h4>
-  <img src="./3.png" alt="Model Test Data Input" width="700"/>
+  <img src="https://github.com/jayakumartkofficial/Machine_Fault_Prediction_Using_ML/blob/main/Screenshot/3.png" alt="Model Test Data Input" width="700"/>
 
   <h3>7️⃣ View Prediction Results</h3>
   <ul>
@@ -72,7 +72,7 @@
   </ul>
 
   <h4>📷 Prediction Output</h4>
-  <img src="./4.png" alt="Model Prediction Output" width="700"/>
+  <img src="https://github.com/jayakumartkofficial/Machine_Fault_Prediction_Using_ML/blob/main/Screenshot/4.png"" alt="Model Prediction Output" width="700"/>
 
   <h2>📊 Outcome</h2>
   <ul>
