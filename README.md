@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Machine Fault Prediction using IBM watsonx.ai</title>
-</head>
+
 <body>
   <h1>🔧 Machine Fault Prediction using IBM watsonx.ai</h1>
   <p>This project demonstrates how to use <strong>IBM watsonx.ai Studio</strong> with AutoAI to build, train, and deploy a predictive maintenance model that detects machine failures like <strong>Power Failure</strong>, <strong>Overstrain Failure</strong>, and <strong>Tool Wear Failure</strong>.</p>
